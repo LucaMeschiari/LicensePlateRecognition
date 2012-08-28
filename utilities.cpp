@@ -3,7 +3,7 @@
 //
 // https://github.com/LucaMeschiari/LicensePlateRecognition
 //
-// Copyright (c) 2012 Luca Meschiari <meschial@tcd.ie>  <http://www.lm-app.com>. All rights reserved.
+// Copyright (c) 2012 Luca Meschiari <meschial@tcd.ie>  <http://www.lm-app.com>.
 //
 #include "cv.h"
 #include "highgui.h"
