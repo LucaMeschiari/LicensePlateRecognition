@@ -1,4 +1,10 @@
-
+//
+// Utilities.h
+//
+// https://github.com/LucaMeschiari/LicensePlateRecognition
+//
+// Copyright (c) 2012 Luca Meschiari <meschial@tcd.ie>  <http://www.lm-app.com>. All rights reserved.
+//
 #define ESC 27
 
 #define PI 3.14159

@@ -1,3 +1,25 @@
+//
+// license.cpp
+//
+// https://github.com/LucaMeschiari/LicensePlateRecognition
+//
+// Copyright (c) 2012 Luca Meschiari <meschial@tcd.ie>  <http://www.lm-app.com>.
+//
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// See <http://www.gnu.org/licenses/> for a copy of the
+// GNU General Public License.
+//
+
 #ifdef _CH_
 #pragma package <opencv>
 #endif
@@ -6,7 +28,7 @@
 #include "highgui.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include "../utilities.h"
+#include "utilities.h"
 
 #define NUM_IMAGES 9
 #define NUMBER_OF_KNOWN_CHARACTERS 10

@@ -1,3 +1,8 @@
 The License Plate Recognition Class uses features detection to recongnize numbers on a license plate image.
 The precision acieved is 95%.
 In order to run the program you need to have the OpenCV library installed.
+
+
+https://github.com/LucaMeschiari/LicensePlateRecognition
+
+Copyright (c) 2012 Luca Meschiari <meschial@tcd.ie>  <http://www.lm-app.com>.
