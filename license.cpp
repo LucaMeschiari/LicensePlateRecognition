@@ -100,7 +100,6 @@ tLicensePlateCharacterFeatures getContourData(CvSeq* contours,CvSeq* contours_Ho
 		charFeatures.chRatio=areaHull/charFeatures.areaRect;
 
 		//release areaHull storage
-
 		cvReleaseMemStorage(&storageAreaHull);
 
 		//Concavities
